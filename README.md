@@ -21,6 +21,7 @@ Additional Features:
 Setup Details:
 
 For Window setup:
+
 (1) Install xamp.
 
 (2) Then put your php file in  C:\xampp\htdocs.
@@ -30,6 +31,7 @@ For Window setup:
 (4) In browser run localohost/index.php
 
 For Linux setup:
+
 (1) Install Lamp server in your system.
 
 (2) Place your folder in /var/www/html/.
