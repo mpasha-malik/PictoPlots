@@ -1,0 +1,33 @@
+.main-row {
+    float: left;
+    width: 100%;
+}
+.col {
+    text-align: center;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #333;
+    box-sizing: border-box;
+}
+.col img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+.col button {
+    background: #a54141;
+    color: #fff;
+    border-radius: 5px;
+    padding: 12px;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 20px;
+}
+h2.text-align.centre {
+    text-align: center;
+    font-size: 2.5em;
+}
+h2#show_title {
+    text-align: center;
+    font-size: 2.5em;
+}
